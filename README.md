@@ -1,7 +1,7 @@
 # Python_projects
 
-Doing some practice in Python <br>
-Here I have =><br>
+Doing some practice in Python. <br>
+Here I have =><br><br>
 1.Madlib Generator<br>
 2.Password Manager<br>
 3.Adventure Game<br>
