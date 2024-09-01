@@ -6,6 +6,7 @@ Here I have =><br><br>
 2.Password Manager<br>
 3.Adventure Game<br>
 4.Pig Game<br>
-5.Rock Paper Scissors Game<br><br>
+5.Rock Paper Scissors Game<br>
+6.Timed Math Challenge.<br><br>
 
 Feel free to use.
