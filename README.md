@@ -7,6 +7,8 @@ Here I have =><br><br>
 3.Adventure Game<br>
 4.Pig Game<br>
 5.Rock Paper Scissors Game<br>
-6.Timed Math Challenge.<br><br>
+6.Timed Math Challenge<br>
+7.Slot Machine<br>
+8.Turtle Race.<br><br>
 
 Feel free to use.

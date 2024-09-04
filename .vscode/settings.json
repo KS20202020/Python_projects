@@ -4,5 +4,6 @@
 	"[python]": {
 		"editor.defaultFormatter": "ms-python.black-formatter"
 	},
-	"code-runner.fileDirectoryAsCwd": true
+	"code-runner.fileDirectoryAsCwd": true,
+	"editor.fontSize": 30
 }

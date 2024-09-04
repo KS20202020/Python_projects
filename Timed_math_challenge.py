@@ -34,6 +34,6 @@ for i in range(total_question):
         print("Wrong ", wrong)
 
 end_time = time.time()
-total_time = end_time - start_time
+total_time = round(end_time - start_time, 2)
 print("---------------------")
 print("Nice work. You did it in ", total_time, " second!")
