@@ -9,6 +9,8 @@ Here I have =><br><br>
 5.Rock Paper Scissors Game<br>
 6.Timed Math Challenge<br>
 7.Slot Machine<br>
-8.Turtle Race.<br><br>
+8.Turtle Race<br>
+9.Alarm Clock<br>
+10.Password Generator.<br><br><br>
 
 Feel free to use.
